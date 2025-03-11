@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pablonoya
 - 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Serverless and AWS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
